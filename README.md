@@ -1,4 +1,4 @@
-# Principais comandos Git:
+# Linux Basic Commands:
 
 
 listar:
@@ -35,6 +35,7 @@ volta para a pasta anterior
 cd ..
 ```
 
+# Principais comandos Git:
 usage git :
 'nome comando' + --help : mostrar o que o comando faz
 git clone :
